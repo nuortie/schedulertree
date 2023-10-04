@@ -1,0 +1,50 @@
+{
+  "success": true,
+  "data": [
+      {
+          "id": 125,
+          "name": "Ship 1",
+          "shipId": 392,
+          "children": [
+              {
+                  "id": "cargo_125",
+                  "name": "Cargo"
+              },
+              {
+                  "id": "capacity_125",
+                  "name": "Capacity"
+              }
+          ]
+      },
+      {
+          "id": 135,
+          "name": "Ship 2",
+          "shipId": 435,
+          "children": [
+              {
+                  "id": "cargo_135",
+                  "name": "Cargo"
+              },
+              {
+                  "id": "capacity_135",
+                  "name": "Capacity"
+              }
+          ]
+      },
+      {
+          "id": 136,
+          "name": "Ship 3",
+          "shipId": 449,
+          "children": [
+              {
+                  "id": "cargo_136",
+                  "name": "Cargo"
+              },
+              {
+                  "id": "capacity_136",
+                  "name": "Capacity"
+              }
+          ]
+      }
+  ]
+}
